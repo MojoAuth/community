@@ -1,4 +1,6 @@
-#  Report an issue
+#  Raise an issue, feature/enhancement request or start a discussion with MojoAuth Team
 
-Found a bug, raise an [issue](https://github.com/MojoAuth/bug-tracker/issues) to this repository.
+- Go to the [discussion](https://github.com/MojoAuth/community/discussions) section.
+- Choose the right category.
+- Start a new discussion or join the existing one.
 
